@@ -1,5 +1,10 @@
-Q&A here are collected from public channels. Contributions welcomed.
+Q&A here are collected from public channels. Contributions are welcomed.
 Not all questions are answered.
+
+# Account
+
+**Q** I am getting a message saying to move the XYM from opt-in account to seed account.   
+**A** It's only suggestion. Not a security issue.  
 
 # Harvesting
 
@@ -32,3 +37,19 @@ Not all questions are answered.
 
 **Q** What's a better way to harvest?  
 **A** You can run a peer/dual node and [remote harvest](https://docs.symbolplatform.com/concepts/harvesting.html#remote-harvesting) from your own node. At the same time, you will earn beneficiary fee from accounts delegated to your node.   
+
+**Q** Is delegated harvesting dangerous?   
+**A** No. You delegated your importance score to the node through a remote account. You main account is safe and your harvested XYM will go to your main account. Refer to [here](https://docs.symbolplatform.com/concepts/harvesting.html#delegated-harvesting) for more details.  
+
+**Q** How can I find out if a node has free slot for delegated harvesting?  
+**A** You can check the number of account delegated on a node [here](https://symbolnodes.org/nodes/). The default number of delegated slot is 10, however, the node owner can decrease or increase it. At this moment, you will not be able to know which node has free slot. (Please watch channels for update.)   
+
+**Q** Any reason Symbol wallet doesn't show all api nodes in harvesting selection?   
+**A** Only [Peer/Dual nodes](https://docs.symbolplatform.com/concepts/node.html#node) are responsible for harvesting process.   
+
+**Q** How to get my account's importance score up?  
+**A** There are [3 factors](https://docs.symbolplatform.com/concepts/consensus-algorithm.html#factors): the stake amount, the transaction fees paid, nominated as the beneficiary account. Run your own node and and name your account as the beneficiary helps. 
+
+
+
+
