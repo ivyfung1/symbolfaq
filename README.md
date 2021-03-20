@@ -1,6 +1,17 @@
 Q&A here are collected from public channels. Contributions are welcomed.
 Not all questions are answered.
 
+# General Questions
+
+**Q** How can I earn some XYM?  
+**A** Option 1: If your account has more than 10k XYM and with importance score more bigger than zero, you can delegate your account on any node with free slot for harvesting in order to get reward from harvesting. Option 2: Run a peer or dual node and allow other accounts to delegate on your node, you will earn 25% (after deduct 5% network fee) from the rewards harvested by the accounts delegating on your node. Don't forget to appoint your beneficiary account. Refer to [here](https://docs.symbolplatform.com/concepts/harvesting.html#harvesting) for more details.   
+
+**Q** I want to set up delegated harvesting but I am not sure if I will do it correctly.  
+**A** Setup an account in the testnet and get testXYM from faucet (the link is on the upper right hand side after you login to your testnet account) and practice with it first. You can practice any transaction with testXYM in testnet before doing it at the mainnet with real XYM.   
+
+
+
+
 # Account
 
 **Q** I am getting a message saying to move the XYM from opt-in account to seed account.   
@@ -19,9 +30,6 @@ Not all questions are answered.
 
 **Q** How to start harvesting if I run a node?   
 **A** You may set up [remote harvesting.](https://docs.symbolplatform.com/concepts/harvesting.html#remote-harvesting)  
-
-**Q** What `The wallet could not load data about the network currency (e.g. symbol:xym), please connect to a valid node.` means?  
-**A**   
 
 **Q** How much I will get each time I harvest a block?  
 **A** Each new block will have new XYM added to block and transaction fees from users as reward to the harvester. The harvester will receive 75% of the total after dedicting 5% network fee. Refer to [here](https://docs.symbolplatform.com/concepts/harvesting.html#rewards) for more details.  
@@ -55,6 +63,18 @@ Not all questions are answered.
 
 **Q** How can a node accept the delegator’s account as a harvester?   
 **A** Node accepts automatically based on [preference](https://docs.symbolplatform.com/guides/network/configuring-node-properties.html#harvesting-configuration) set during node setup.   
+
+
+# Nodes
+
+**Q** How many XYM I need to run a node?  
+**A** You do not need to own XYM to run a node. If you want to profit from running a node, run a peer/dual node, allow other accounts to delegate harvesting on your node, and appoint the beneficiary account. Your cost will be hosting the node. Refer to [here](https://docs.symbolplatform.com/guides/network/running-a-symbol-node.html) for more details.    
+
+**Q** I can't reach to my peer node with localhost:3000.  
+**A** Peer node don't have API. Only API or DUAL node would allows you to do that.  
+
+**Q** What `The wallet could not load data about the network currency (e.g. symbol:xym), please connect to a valid node.` means?  
+**A** At the bottom lefthand side of the wallet, there is a dot with `Node` next to it. If it is red in colour, click on it and select a different node from the list until it turns green. Else, try log out and log back in. If the problem persist, check firewall and proxy setting.    
 
 
 # Transactions
