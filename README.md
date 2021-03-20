@@ -6,6 +6,9 @@ Not all questions are answered.
 **Q** I am getting a message saying to move the XYM from opt-in account to seed account.   
 **A** It's only suggestion. Not a security issue.  
 
+**Q** I do not see my XYM in my NEM Wallet. What happened?  
+**A** NEM and XYM are native currency in 2 different blockchains, NIS1 and Symbol respectively. You opt-in using NEM Wallet and need to retrieve your XYM using Symbol Wallet. Please refer to [here](https://symbolplatform.com/latest/getting-started-on-symbol/) for other details.   
+
 # Harvesting
 
 **Q** Who can harvest?  
@@ -50,6 +53,14 @@ Not all questions are answered.
 **Q** How to get my account's importance score up?  
 **A** There are [3 factors](https://docs.symbolplatform.com/concepts/consensus-algorithm.html#factors): the stake amount, the transaction fees paid, nominated as the beneficiary account. Run your own node and and name your account as the beneficiary helps. 
 
+**Q** How can a node accept the delegator’s account as a harvester?   
+**A** Node accepts automatically based on [preference](https://docs.symbolplatform.com/guides/network/configuring-node-properties.html#harvesting-configuration) set during node setup.   
+
+
+# Transactions
+
+**Q** I want to transfer my XYM to another account, why I can't transfer the full amount?  
+**A** All transaction needs to pay transaction fee, hence, a small portaion of your XYM is reserved for the transaction fee.    
 
 
 
