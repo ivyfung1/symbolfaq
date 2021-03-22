@@ -10,12 +10,10 @@ Not all questions are answered.
 **A** Setup an account in the testnet and get testXYM from faucet (the link is on the upper right hand side after you login to your testnet account) and practice with it first. You can practice any transaction with testXYM in testnet before doing it at the mainnet with real XYM.   
 
 
-
-
 # Account
 
 **Q** I am getting a message saying to move the XYM from opt-in account to seed account.   
-**A** It's only suggestion. Not a security issue.  
+**A** Though it is suggestion, we strongly recommend you to do so, especially if you want to convert an account into a multisig or be a co-signer, it is better to do it with a seed account.      
 
 **Q** I do not see my XYM in my NEM Wallet. What happened?  
 **A** NEM and XYM are native currency in 2 different blockchains, NIS1 and Symbol respectively. You opt-in using NEM Wallet and need to retrieve your XYM using Symbol Wallet. Please refer to [here](https://symbolplatform.com/latest/getting-started-on-symbol/) for other details.   
@@ -63,6 +61,21 @@ Not all questions are answered.
 
 **Q** How can a node accept the delegator’s account as a harvester?   
 **A** Node accepts automatically based on [preference](https://docs.symbolplatform.com/guides/network/configuring-node-properties.html#harvesting-configuration) set during node setup.   
+
+
+# Opt-In and Airdrop
+
+**Q** I can't find my mnemonic phrase.  
+**A** You are asked to download and safekeep it when you opt-in. Try to search for a pdf file start from `symbol-wallet` in your device used for opt-in.   
+
+**Q** I opted-in with my Trezor, how would I access my XYM in Symbol Wallet?  
+**A** With the mnemonic phare you get when opting-in, create a wallet profile by selecting `Import Mnemonic`.  
+
+**Q** I have more than 100 XEM in my wallet but I do not see any XYM in my wallet.  
+**A** If you have opt-in before the snapshot happened at block 3105500, you will get a 24 words mnemonic. Follow the steps at the [Accessing Your XYM after Symbol Launch](https://symbolplatform.com/latest/getting-started-on-symbol/) section to create a Symbol wallet profile. After that, login to the profile, at the lefthand side, select `Accounts` and check on all addresses listed. Your XYM shall be listed in one of the addresses.   
+
+**Q** I have not opt-in and I have more than 100 XEM before snapshot, what shall I do?  
+**A** Please follow https://t.me/newsonnem for announcement on opt-in re-open. When it re-opens, please follow these [YouTube videos](https://www.youtube.com/playlist?list=PLldOn7xb83R5XeVTeRkbGxJlH12RmJXof) for instructions.   
 
 
 # Nodes
