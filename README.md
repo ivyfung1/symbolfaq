@@ -1,5 +1,8 @@
-Q&A here are collected from public channels. Contributions are welcomed.
+Q&A here are collected from public channels. 
 Not all questions are answered.
+Contributions are welcomed.   
+
+Disclaimer: The repertoire will be constantly updated, however, it does not serves as official announcement.  
 
 # General Questions
 
