@@ -16,7 +16,18 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 # Account
 
 **Q** I am getting a message saying to move the XYM from opt-in account to seed account.   
-**A** Though it is suggestion, we strongly recommend you to do so, especially if you want to convert an account into a multisig or be a co-signer, it is better to do it with a seed account.      
+**A** Though it is suggestion, we strongly recommend you to do so, especially if you want to convert an account into a multisig or be a co-signer, it is better to do it with a seed account.   
+
+**Q** How do I transfer my XYM from opt-in account to seed account?  
+**A** To transfer XYM from your opt-in account to seed account: 
+1. Copy your seed account address. 
+2. On the right-hand side of the "Home" page, click "Send".
+3. At "From:", select the opt-in account.
+4. Paste the seed account address in "To:".
+5. Next to "symbol.xym", put in the number of XYM you want to send. Please note that you will need to reserve some XYM for the transaction fee. 
+6. Check the fee you willing to pay at "Fee:".
+7. Click "Send" button. 
+8. Key in the password to authorise the transaction.  
 
 **Q** I do not see my XYM in my NEM Wallet. What happened?  
 **A** NEM and XYM are native currency in 2 different blockchains, NIS1 and Symbol respectively. You opt-in using NEM Wallet and need to retrieve your XYM using Symbol Wallet. Please refer to [here](https://symbolplatform.com/latest/getting-started-on-symbol/) for other details.   
