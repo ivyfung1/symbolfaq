@@ -86,7 +86,7 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 **A** With the mnemonic phare you get when opting-in, create a wallet profile by selecting `Import Mnemonic`.  
 
 **Q** I have more than 100 XEM in my wallet but I do not see any XYM in my wallet.  
-**A** If you have opt-in before the snapshot happened at block 3105500, you will get a 24 words mnemonic. Follow the steps at the [Accessing Your XYM after Symbol Launch](https://symbolplatform.com/latest/getting-started-on-symbol/) section to create a Symbol wallet profile. After that, login to the profile, at the lefthand side, select `Accounts` and check on all addresses listed. Your XYM shall be listed in one of the addresses.   
+**A** If you have opt-in before the snapshot happened at block 3105500, you would have been given a 24 words mnemonic. Follow the steps at the [Accessing Your XYM after Symbol Launch](https://symbolplatform.com/latest/getting-started-on-symbol/) section to create a Symbol wallet profile. After that, login to the profile, at the lefthand side, select `Accounts` and check on all addresses listed. Your XYM shall be listed in one of the addresses.   
 
 **Q** I have not opt-in and I have more than 100 XEM before snapshot, what shall I do?  
 **A** Please follow https://t.me/newsonnem for announcement on opt-in re-open. When it re-opens, please follow these [YouTube videos](https://www.youtube.com/playlist?list=PLldOn7xb83R5XeVTeRkbGxJlH12RmJXof) for instructions.   
@@ -108,6 +108,9 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 
 **Q** I want to transfer my XYM to another account, why I can't transfer the full amount?  
 **A** All transaction needs to pay transaction fee, hence, a small portaion of your XYM is reserved for the transaction fee.    
+
+**Q** Why the fees are high?  
+**A** This [article](https://forum.nem.io/t/symbol-launch-few-learnings-bootstrap-releases/29404) may explain your concern.   
 
 
 
