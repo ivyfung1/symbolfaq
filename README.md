@@ -76,6 +76,9 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 **Q** How can a node accept the delegator’s account as a harvester?   
 **A** Node accepts automatically based on [preference](https://docs.symbolplatform.com/guides/network/configuring-node-properties.html#harvesting-configuration) set during node setup.   
 
+**Q** Would the XYM I harvested be compounded to my capital?   
+**A** Harvested XYM will helps in improving your importance score and higher importance score will have a higher chance in harvesting. It is not an interest-taking mechanism, so it has no compounded-effect. However, it does gives a similar effect.   
+
 
 # Opt-In and Airdrop
 
@@ -89,7 +92,7 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 **A** If you have opt-in before the snapshot happened at block 3105500, you would have been given a 24 words mnemonic. Follow the steps at the [Accessing Your XYM after Symbol Launch](https://symbolplatform.com/latest/getting-started-on-symbol/) section to create a Symbol wallet profile. After that, login to the profile, at the lefthand side, select `Accounts` and check on all addresses listed. Your XYM shall be listed in one of the addresses.   
 
 **Q** I have not opt-in and I have more than 100 XEM before snapshot, what shall I do?  
-**A** Please follow https://t.me/newsonnem for announcement on opt-in re-open. When it re-opens, please follow these [YouTube videos](https://www.youtube.com/playlist?list=PLldOn7xb83R5XeVTeRkbGxJlH12RmJXof) for instructions.   
+**A** Please follow https://t.me/newsonnem or https://twitter.com/NEMofficial for announcement on opt-in re-open. When it re-opens, please follow these [YouTube videos](https://www.youtube.com/playlist?list=PLldOn7xb83R5XeVTeRkbGxJlH12RmJXof) for instructions.   
 
 
 # Nodes
