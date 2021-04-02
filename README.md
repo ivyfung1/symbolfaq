@@ -30,7 +30,11 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 8. Key in the password to authorise the transaction.  
 
 **Q** I do not see my XYM in my NEM Wallet. What happened?  
-**A** NEM and XYM are native currency in 2 different blockchains, NIS1 and Symbol respectively. You opt-in using NEM Wallet and need to retrieve your XYM using Symbol Wallet. Please refer to [here](https://symbolplatform.com/latest/getting-started-on-symbol/) for other details.   
+**A** NEM and XYM are native currency in 2 different blockchains, NIS1 and Symbol respectively. You opt-in using NEM Wallet and need to retrieve your XYM using Symbol Wallet. Please refer to [here](https://symbolplatform.com/latest/getting-started-on-symbol/) for other details.  
+
+***Q*** How can I know the importance score of my account?   
+***A*** You can search for you account [here](http://explorer.symbolblockchain.io/) and you will see the importance score. Or at the desktop wallet, click `Account` on the left and you will see the account info including the importance score on the right.   
+
 
 # Harvesting
 
@@ -78,6 +82,10 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 
 **Q** Would the XYM I harvested be compounded to my capital?   
 **A** Harvested XYM will helps in improving your importance score and higher importance score will have a higher chance in harvesting. It is not an interest-taking mechanism, so it has no compounded-effect. However, it does gives a similar effect.   
+
+**Q** What's the different between harvesting in NIS1 and Symbol?  
+**A** To harvest NIS1, you need to have 10k vested XEM and > zero importance score. Average every 24 hours, 10% of your balance of unvested XEM will be vested. Vested XEM doesn't mean they are locked funds, they still can be moved. Everytime you send funds out of the account, it will be partially unvested XEM and partially vested XEM.    
+To harvest in Symbol, you need 10k XYM and >zero importance score.     
 
 
 # Opt-In and Airdrop
