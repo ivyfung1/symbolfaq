@@ -12,6 +12,9 @@ Disclaimer: The repertoire will be constantly updated, however, it does not serv
 **Q** I want to set up delegated harvesting but I am not sure if I will do it correctly.  
 **A** Setup an account in the testnet and get testXYM from faucet (the link is on the upper right hand side after you login to your testnet account) and practice with it first. You can practice any transaction with testXYM in testnet before doing it at the mainnet with real XYM.   
 
+**Q** Why it takes exhcnages such a long time to distrubute XYM?   
+**A** You may refer to this tweet for [more explanations](https://twitter.com/RealDaveHodgson/status/1382321490301976578).   
+
 
 # Account
 
